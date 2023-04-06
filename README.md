@@ -15,6 +15,8 @@ The data is taken arbitrarily. It is not real time data.
 0 - player not selected and 
 1 - player selected
 
+NOTE: Choose the correct lagrange multipliers to get the required output
+
 Go to ipl_team.py and execute the code in Dwave leap.
 
 
